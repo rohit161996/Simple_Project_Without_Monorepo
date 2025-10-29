@@ -19,7 +19,7 @@ app.post("/", async (req, res) => {
     })
 
     res.json({
-        "message": "Gdt endpoint"
+        "message": "Post Endpoint"
     })
 
 })
